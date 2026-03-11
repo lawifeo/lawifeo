@@ -1,21 +1,30 @@
-- 👋 Hi, I’m @lawifeo
+👋 Hi, I’m @lawifeo
 
-- 👀 I’m interested in
-  AI, data science, healthcare innovation, and sustainable technologies.
+I am a Digital Health Strategist, Data Enthusiast, and Community Builder passionate about using technology, data, and collaborative innovation to solve real-world challenges across healthcare and development sectors.
 
-- 🌱 I’m currently learning advanced AI applications, prompt engineering, and business intelligence tools.
-  
-- 💞️ I’m looking to collaborate on health-tech projects, AI-driven data validation, and strategic planning for startups.
-  
-- 📫 How to reach me you can reach me on (email) lawifeo@gmail.com or (LinkedIn) https://www.linkedin.com/in/lawrence-ifeogome-725742191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-  
-- 😄 Pronouns: he/she(or let me know yours)
-  
-- ⚡ Fun fact: I can brainstorm like an AI and strategize like a CEO sometimes both at once!
+- 👀 I’m interested in  
+  Artificial Intelligence, Data Science, Digital Health Innovation, Health Financing Systems, and Sustainable Technology for social impact.
+
+- 🌱 I’m currently learning  
+  Advanced AI applications, prompt engineering, digital health systems design, and business intelligence tools for data-driven decision making.
+
+- 💞️ I’m looking to collaborate on  
+  Health-tech solutions, AI-powered data systems, digital health infrastructure, data validation frameworks, and strategic innovation projects for startups and social enterprises.
+
+- 🌍 Community Engagement  
+  I actively support technology and data communities, promoting digital capacity building, responsible AI adoption, and innovation ecosystems that empower young professionals and emerging tech leaders.
+
+- 📫 How to reach me  
+  Email: lawifeo@gmail.com  
+  LinkedIn: https://www.linkedin.com/in/lawrence-ifeogome-725742191
+
+- ⚡ Fun fact  
+  I enjoy turning complex ideas into practical strategies and building solutions that connect technology with real community needs.
+
+You can also connect with me here 👇  
+https://premium.chat/er/vjVPVxBzXQ:L0dyZWF0bGF3
+
 
 <!---
-lawifeo/lawifeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+lawifeo/lawifeo is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
-you can talk to me on 👇
-https://premium.chat/er/vjVPVxBzXQ:L0dyZWF0bGF3
